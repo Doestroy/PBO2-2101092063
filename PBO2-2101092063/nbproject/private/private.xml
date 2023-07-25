@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/semester%204/PBO2/PBO2_2101092063/src/RAFI/model/Peminjaman.java</file>
+            <file>file:/D:/semester%204/PBO2/PBO2_2101092063/src/RAFI/dao/PeminjamanDao.java</file>
+            <file>file:/D:/semester%204/PBO2/PBO2_2101092063/src/RAFI/dao/PengembalianDao.java</file>
+            <file>file:/D:/semester%204/PBO2/PBO2_2101092063/src/RAFI/model/Buku.java</file>
+            <file>file:/D:/semester%204/PBO2/PBO2_2101092063/src/RAFI/dao/PeminjamanDaoImpl.java</file>
+            <file>file:/D:/semester%204/PBO2/PBO2_2101092063/src/RAFI/dao/Koneksi.java</file>
+            <file>file:/D:/semester%204/PBO2/PBO2_2101092063/src/RAFI/model/Anggota.java</file>
+            <file>file:/D:/semester%204/PBO2/PBO2_2101092063/src/RAFI/view/FormPeminjaman.java</file>
+            <file>file:/D:/semester%204/PBO2/PBO2_2101092063/src/RAFI/view/FormAnggota.java</file>
+            <file>file:/D:/semester%204/PBO2/PBO2_2101092063/src/RAFI/dao/AnggotaDaoImpl.java</file>
+            <file>file:/D:/semester%204/PBO2/PBO2_2101092063/src/RAFI/dao/BukuDaoImpl.java</file>
+            <file>file:/D:/semester%204/PBO2/PBO2_2101092063/src/RAFI/model/Pengembalian.java</file>
+            <file>file:/D:/semester%204/PBO2/PBO2_2101092063/src/RAFI/dao/AnggotaDao.java</file>
+            <file>file:/D:/semester%204/PBO2/PBO2_2101092063/src/RAFI/dao/BukuDao.java</file>
+            <file>file:/D:/semester%204/PBO2/PBO2_2101092063/src/RAFI/view/FormBuku.java</file>
+            <file>file:/D:/semester%204/PBO2/PBO2_2101092063/src/RAFI/controller/AnggotaController.java</file>
+            <file>file:/D:/semester%204/PBO2/PBO2_2101092063/src/RAFI/view/FormPengembalian.java</file>
+            <file>file:/D:/semester%204/PBO2/PBO2_2101092063/src/RAFI/dao/PengembalianDaoImpl.java</file>
+            <file>file:/D:/semester%204/PBO2/PBO2_2101092063/src/RAFI/controller/BukuController.java</file>
+            <file>file:/D:/semester%204/PBO2/PBO2_2101092063/src/RAFI/controller/PeminjamanController.java</file>
+            <file>file:/D:/semester%204/PBO2/PBO2_2101092063/src/RAFI/controller/PengembalianController.java</file>
+        </group>
+    </open-files>
+</project-private>
